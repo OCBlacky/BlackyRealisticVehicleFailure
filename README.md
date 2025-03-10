@@ -9,11 +9,11 @@ If you need help feel free to message me on discord blackynz1
 
 ## How to Add To Game
 
-Add BlackyVehicleBreakdown-main to your resources folder
+Add BlackyRealisticVehicleFailure-main.zip to your resources folder
 
-Rename it to BlackyVehicleBreakdown
+Rename it to BlackyRealisticVehicleFailure
 
-In your server.cfg file add - ensure BlackyVehicleBreakdown
+In your server.cfg file add - ensure BlackyRealisticVehicleFailure
 
 
 Restart your server and you are good to go!
